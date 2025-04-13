@@ -1,0 +1,1 @@
+export const capitamizeString = str => str.toUpperCase()
